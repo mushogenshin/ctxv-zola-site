@@ -10,7 +10,7 @@ build_search_index = false
 theme = "anpu"
 
 title = "Con Tạo Xoay Vần"
-description = "A clean blogging theme"
+description = "Trần Như Vĩnh-Lạc: thử bắc một nhịp cầu đi tới nhạc kịch Tây-phương"
 generate_feed = true
 
 taxonomies = [{ name = "categories" }, { name = "tags" }]

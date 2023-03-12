@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>Con Tạo Xoay Vần</title>
-	<subtitle>A clean blogging theme</subtitle>
+	<subtitle>Trần Như Vĩnh-Lạc: thử bắc một nhịp cầu đi tới nhạc kịch Tây-phương</subtitle>
 	<link href="https://contaoxoayvan.com/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://contaoxoayvan.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
