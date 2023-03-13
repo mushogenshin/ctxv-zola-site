@@ -6,8 +6,6 @@ date = 2015-01-01
 tags = ["Stratovarius", "Forever"]
 +++
 
-
-
 Vĩnh-Lạc phóng-tác từ ca-khúc "**Forever**" trong album “Episode” năm 1996 của Stratovarius.
 Nhạc và lời: **Timo Tolkki** (1966 - ).
 
