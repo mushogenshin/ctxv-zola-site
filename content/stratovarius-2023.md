@@ -6,14 +6,14 @@ date = 2023-03-01
 tags = ["Stratovarius"]
 +++
 
-Hai ca-sĩ với các ca-khúc của Stratovarius và phần lời Việt của Vĩnh-Lạc
+Hai ca-sĩ với các ca-khúc của [Stratovarius](/tags/stratovarius/) và phần lời Việt của Vĩnh-Lạc
 
 ![Đức-Nhân](/images/DucNhan.jpg)
 
-Đức-Nhân ở phòng thâu của Hải-Bình
-
-<!-- more -->
+[Đức-Nhân](https://www.facebook.com/profile.php?id=100050806399009) ở phòng thâu của [Hải-Bình](https://www.facebook.com/nguyen.haibinh.90)
 
 ![Ngọc-Hoàng](/images/NgocHoang.jpg)
 
-Ngọc-Hoàng ở phòng thâu của Hải-Bình
+[Ngọc-Hoàng](https://www.facebook.com/hoangsilah) ở phòng thâu của Hải-Bình
+
+<!-- more -->

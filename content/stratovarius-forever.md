@@ -7,7 +7,7 @@ tags = ["Stratovarius", "Forever"]
 +++
 
 Vĩnh-Lạc phóng-tác từ ca-khúc "**Forever**" trong album “Episode” năm 1996 của Stratovarius.
-Nhạc và lời: **Timo Tolkki** (1966 - ).
+Nhạc và lời: **Timo Tolkki**.
 
 
 > Mình ta đứng trong bóng tối. Đời quá sớm vào đông. Kỷ-niệm lui về thời bé dại, Những ngày ta còn ghi nhớ mãi khôn nguôi. 
@@ -19,7 +19,7 @@ Nhạc và lời: **Timo Tolkki** (1966 - ).
 # FOREVER
 
 * From the 1996 album “Episode”
-* Music and lyrics: Timo Tolkki (1966 - )
+* Music and lyrics: **Timo Tolkki** (1966 - )
 
 I stand alone in the darkness.
 

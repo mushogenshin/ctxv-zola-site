@@ -7,7 +7,7 @@ tags = ["Stratovarius", "When Mountains Fall"]
 +++
 
 Vĩnh-Lạc phóng-tác từ ca-khúc "**When Mountains Fall**" trong album “Polaris” năm 2009 của Stratovarius.
-Nhạc và lời: **Lauri Porra** (1977 - ).
+Nhạc và lời: **Lauri Porra**.
 
 > Cứ ngỡ như mới hôm qua, Lúc mình chọn đi và tớ chọn ở. Trên đầu hôm đó mặt trời soi ấm-áp, Chỉ riêng tim này nghe nặng đá đeo.
 > Mình chẳng hề cho biết sẽ đi đâu; Thì cũng vì tớ chỉ hỏi lấy lệ. Bây giờ mới biết cả đời mỗi một dịp may, Cũng nên liệu cách mà dùng cho đúng.
@@ -21,7 +21,7 @@ Nhạc và lời: **Lauri Porra** (1977 - ).
 # WHEN MOUNTAINS FALL
 
 * From the 2009 album “Polaris”
-* Music and lyrics: Lauri Porra (1977 - )
+* Music and lyrics: **Lauri Porra** (1977 - )
 
 It was just like yesterday
 
