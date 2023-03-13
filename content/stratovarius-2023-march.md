@@ -16,4 +16,6 @@ Hai ca-sĩ với các ca-khúc của [Stratovarius](/tags/stratovarius/) và ph�
 
 [Ngọc-Hoàng](https://www.facebook.com/hoangsilah) ở phòng thâu của Hải-Bình
 
+Photos: [rkxg](https://rkxg-blog.tumblr.com/)
+
 <!-- more -->

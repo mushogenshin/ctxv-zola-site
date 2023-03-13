@@ -17,7 +17,6 @@ Nhạc và lời: **Lauri Porra**.
 
 <!-- more -->
 
-
 # WHEN MOUNTAINS FALL
 
 * From the 2009 album “Polaris”
