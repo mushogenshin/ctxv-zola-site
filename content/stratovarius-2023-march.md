@@ -22,7 +22,6 @@ Hai ca-sĩ với các ca-khúc của [Stratovarius](/tags/stratovarius/) và ph�
 
 [Ngọc-Hoàng](https://www.facebook.com/hoangsilah) ở phòng thâu của Hải-Bình
 
-
 {{ soundcloud(src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1588661641&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true", title="Đinh Ngọc Hoàng - Stratovarius", href="https://soundcloud.com/mushogenshin/sets/dinh-ngoc-hoang-stratovarius") }}
 
 Photos: [rkxg](https://rkxg-blog.tumblr.com/)

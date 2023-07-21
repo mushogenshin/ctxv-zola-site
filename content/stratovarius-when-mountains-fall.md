@@ -19,8 +19,8 @@ Nhạc và lời: **Lauri Porra**.
 
 # WHEN MOUNTAINS FALL
 
-* From the 2009 album “Polaris”
-* Music and lyrics: **Lauri Porra** (1977 - )
+- From the 2009 album “Polaris”
+- Music and lyrics: **Lauri Porra** (1977 - )
 
 It was just like yesterday
 
@@ -74,69 +74,67 @@ Only thing I want to say:
 
 One last thing I have to say:
 
-“I'm still in love with you.” 
-
-
+“I'm still in love with you.”
 
 # TỪ THỨC
 
-* Trích album “Bắc-Thần” năm 2009
-* Phóng-tác ca-từ: Trần Như Vĩnh-Lạc
+- Trích album “Bắc-Thần” năm 2009
+- Phóng-tác ca-từ: Trần Như Vĩnh-Lạc
 
-Giờ em đã hoá ra làn mây 
+Giờ em đã hoá ra làn mây
 
-Mà tôi vẫn ngỡ như còn ai chốn này. 
+Mà tôi vẫn ngỡ như còn ai chốn này.
 
-Trời hôm ấy nắng đưa mùa xuân ghé thăm, 
+Trời hôm ấy nắng đưa mùa xuân ghé thăm,
 
-Có đâu ngờ thoảng qua nghìn năm. 
-
---
-
-Người không nói sẽ đi về đâu, 
-
-Và tôi cũng ngẫu-nhiên để quên dưới cầu. 
-
-Giờ đây mới biết khi cành hoa thoắt tan, 
-
-Có con đò bỏ theo thời-gian. 
+Có đâu ngờ thoảng qua nghìn năm.
 
 --
 
-Kìa biển dâu đã khô, 
+Người không nói sẽ đi về đâu,
 
-Nay vực sâu hoá hồ, 
+Và tôi cũng ngẫu-nhiên để quên dưới cầu.
 
-Non núi đâu nữa cho lòng nhấp-nhô! 
+Giờ đây mới biết khi cành hoa thoắt tan,
 
-Vẫn gã hành-khất nghiêng nghiêng đầu 
-
-Tìm từng dấu chân nghìn sau. 
+Có con đò bỏ theo thời-gian.
 
 --
 
-Miền tôi đến vắng mây lửng-lơ, 
+Kìa biển dâu đã khô,
 
-Và trên bến nước thôi hờn sông hững-hờ. 
+Nay vực sâu hoá hồ,
+
+Non núi đâu nữa cho lòng nhấp-nhô!
+
+Vẫn gã hành-khất nghiêng nghiêng đầu
+
+Tìm từng dấu chân nghìn sau.
+
+--
+
+Miền tôi đến vắng mây lửng-lơ,
+
+Và trên bến nước thôi hờn sông hững-hờ.
 
 Người con gái cũng xa lìa nơi phía kia,
 
-Vẫn tôi nằm ngủ trên mộ bia. 
+Vẫn tôi nằm ngủ trên mộ bia.
 
 --
 
-Là nàng tiên Giáng-Hương 
+Là nàng tiên Giáng-Hương
 
-Hay người điên cuối đường, 
+Hay người điên cuối đường,
 
 Nay cũng như khói trên cành liễu-dương.
 
-Thoáng bóng hình những khi mong chờ, 
+Thoáng bóng hình những khi mong chờ,
 
-Chìm dần giữa đêm ngẩn-ngơ. 
+Chìm dần giữa đêm ngẩn-ngơ.
 
 --
 
-Nét chữ buồn lấp trong rêu mờ: 
+Nét chữ buồn lấp trong rêu mờ:
 
 "Một đời khó hai lần mơ."
